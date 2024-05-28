@@ -13,4 +13,5 @@ header {
 
 nav {
     display: flex;
+    max-width: 1200px;
 }
