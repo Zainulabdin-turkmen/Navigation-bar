@@ -9,3 +9,7 @@ h1, h2, h3, h4, p {
 header {
     background-color: #DBE1E8;
 }
+
+nav {
+    display: flex;
+}
