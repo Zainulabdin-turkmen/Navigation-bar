@@ -39,3 +39,7 @@ nav {
 .active {
     font-weight:bold;
 }
+
+.card-container {
+    display: flex;
+}
