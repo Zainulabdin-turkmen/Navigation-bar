@@ -28,6 +28,7 @@ nav {
 .links-container a {
     text-decoration: none;
     font-size: 1.1rem;
+    color: black;
 }
 
 .logo {
