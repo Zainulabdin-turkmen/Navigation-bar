@@ -23,3 +23,7 @@ nav {
     display: flex;
     gap: 2rem;
 }
+
+.links-container a {
+    text-decoration: none;
+}
