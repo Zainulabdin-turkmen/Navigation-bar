@@ -18,3 +18,7 @@ nav {
     margin: 0 auto;
     align-items: center;
 }
+
+.links-container {
+    display: flex;
+}
