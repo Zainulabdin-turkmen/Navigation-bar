@@ -35,3 +35,7 @@ nav {
     font-size: 22px;
     color: #0460BC;
 }
+
+.active {
+    font-weight: bold;
+}
