@@ -42,4 +42,5 @@ nav {
 
 .card-container {
     display: flex;
+    align-items: center;
 }
