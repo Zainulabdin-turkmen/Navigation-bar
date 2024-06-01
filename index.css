@@ -60,10 +60,11 @@ a:hover {
 }
 
 section {
-    margin: 2rem auto;
+    margin: 6rem auto;
     display: flex;
     flex-direction: column;
     max-width: 1200px;
+    gap: 2rem;
 }
 
 .large {
