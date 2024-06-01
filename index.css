@@ -61,7 +61,7 @@ a:hover {
 
 section {
     margin: 2rem auto;
-    /* display: flex; */
+    display: flex;
     /* flex-direction: column; */
     /* max-width: 1200px; */
 }
