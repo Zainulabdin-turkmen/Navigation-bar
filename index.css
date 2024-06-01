@@ -61,10 +61,9 @@ a:hover {
 
 section {
     margin: 2rem auto;
-    background-color: red;
-    display: flex;
-    flex-direction: column;
-    max-width: 1200px;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* max-width: 1200px; */
 }
 
 .large {
@@ -75,8 +74,8 @@ section {
 }
 
 .small {
-    width: 295px;
-    background-color: #DBE1E8;
-    height: 35px;
-    border-radius: 45px;
+    /* width: 295px; */
+    /* background-color: #DBE1E8; */
+    /* height: 35px; */
+    /* border-radius: 45px; */
 }
