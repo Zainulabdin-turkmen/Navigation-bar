@@ -58,3 +58,7 @@ a:hover {
     background: #B5C0CE;
     cursor: pointer;
 }
+
+.large {
+    width: 455px;
+}
