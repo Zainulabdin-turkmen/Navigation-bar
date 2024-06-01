@@ -66,6 +66,7 @@ section {
     max-width: 1200px;
     gap: 1.5rem;
     padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .large {
