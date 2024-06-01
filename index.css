@@ -53,3 +53,8 @@ nav {
 a:hover {
     color: #0460BC;
 }
+
+.card-container:hover {
+    background: #B5C0CE;
+
+}
