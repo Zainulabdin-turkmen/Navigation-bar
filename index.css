@@ -63,7 +63,7 @@ section {
     margin: 2rem auto;
     display: flex;
     flex-direction: column;
-    /* max-width: 1200px; */
+    max-width: 1200px;
 }
 
 .large {
