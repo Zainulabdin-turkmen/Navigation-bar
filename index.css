@@ -59,9 +59,24 @@ a:hover {
     cursor: pointer;
 }
 
+section {
+    margin: 2rem auto;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+}
+
 .large {
     width: 455px;
     height: 35px;
     background-color: #DBE1E8;
 
+}
+
+.small {
+    width: 295px;
+    background-color: #DBE1E8;
+    height: 35px;
+    border-radius: 45px;
 }
