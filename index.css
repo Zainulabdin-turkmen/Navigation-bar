@@ -93,4 +93,5 @@ section {
 
 .card-bar-container {
   display: flex;
+  gap: 1.4rem;
 }
