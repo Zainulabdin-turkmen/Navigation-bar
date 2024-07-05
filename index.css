@@ -80,6 +80,7 @@ section {
   height: 35px;
   background-color: #dbe1e8;
   border-radius: 45px;
+  display: none;
 }
 
 .small {
