@@ -88,4 +88,5 @@ section {
   background-color: #dbe1e8;
   height: 35px;
   border-radius: 45px;
+  display: none;
 }
