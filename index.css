@@ -92,4 +92,5 @@ section {
 }
 
 .card-bar-container {
+  display: flex;
 }
