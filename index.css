@@ -22,20 +22,29 @@ nav {
   max-width: 1200px;
   margin: 0 auto;
   align-items: center;
-  padding-left: 2.2rem;
-  padding-right: 2.2rem;
+  /* padding-left: 2.2rem; */
+  /* padding-right: 2.2rem; */
 }
 
 .links-container {
-  display: flex;
-  gap: 2rem;
+  /* display: none; */
+  /* gap: 2rem; */
+  /* position: absolute; */
+  /* background-color: #fff; */
+  /* top: 0; */
+  /* right: 0; */
+  /* width: 50%; */
+  /* flex-direction: column; */
+  /* align-items: end; */
+  /* padding: 3rem; */
+  /* box-sizing: border-box; */
+  /* height: 100vh; */
 }
 
 .links-container a {
   text-decoration: none;
   font-size: 1.1rem;
   color: black;
-  display: none;
 }
 
 .logo {
@@ -88,10 +97,18 @@ section {
   background-color: #dbe1e8;
   height: 35px;
   border-radius: 45px;
-  display: none;
+  /* display: none; */
 }
 
 .card-bar-container {
   display: flex;
   gap: 1.4rem;
+}
+
+.close-svg {
+  margin-bottom: 2rem;
+}
+
+.show {
+  display: flex;
 }
