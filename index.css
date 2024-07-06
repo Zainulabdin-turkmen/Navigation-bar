@@ -31,7 +31,7 @@ nav {
   gap: 2rem;
   position: absolute;
   background-color: #fff;
-  /* top: 0; */
+  top: 0;
   /* right: 0; */
   /* width: 50%; */
   /* flex-direction: column; */
