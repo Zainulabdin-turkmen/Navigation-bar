@@ -112,3 +112,6 @@ section {
 .show {
   display: flex;
 }
+
+@media only screen and (min-width: 1000px) {
+}
