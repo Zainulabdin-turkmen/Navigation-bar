@@ -29,7 +29,7 @@ nav {
 .links-container {
   display: none;
   gap: 2rem;
-  /* position: absolute; */
+  position: absolute;
   /* background-color: #fff; */
   /* top: 0; */
   /* right: 0; */
