@@ -122,7 +122,7 @@ section {
     display: flex;
     position: static;
     height: unset;
-    /* width: unset; */
+    width: unset;
     /* background-color: #dbe1e8; */
     /* flex-direction: row; */
   }
