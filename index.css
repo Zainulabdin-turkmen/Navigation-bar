@@ -124,7 +124,7 @@ section {
     height: unset;
     width: unset;
     background-color: #dbe1e8;
-    /* flex-direction: row; */
+    flex-direction: row;
   }
 
   /* .close-svg {
