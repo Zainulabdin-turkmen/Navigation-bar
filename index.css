@@ -114,6 +114,10 @@ section {
 }
 
 @media only screen and (min-width: 1000px) {
+  nav {
+    /* padding-left: 7.5rem; */
+    /* padding-right: 7.5rem; */
+  }
   .bar {
     display: none;
   }
@@ -138,5 +142,9 @@ section {
 
   .small {
     display: block;
+  }
+  section {
+    /* padding-left: 7.5rem; */
+    /* padding-right: 7.5rem; */
   }
 }
