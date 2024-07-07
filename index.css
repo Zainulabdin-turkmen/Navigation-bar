@@ -117,4 +117,17 @@ section {
   .bar {
     display: none;
   }
+
+  .links-container {
+    display: flex;
+    position: static;
+    height: unset;
+    width: unset;
+    background-color: #dbe1e8;
+    flex-direction: row;
+  }
+
+  .close-svg {
+    display: none;
+  }
 }
