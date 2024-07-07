@@ -125,6 +125,7 @@ section {
     width: unset;
     background-color: #dbe1e8;
     flex-direction: row;
+    padding: 0;
   }
 
   .close-svg {
