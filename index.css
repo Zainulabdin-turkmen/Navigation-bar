@@ -123,7 +123,7 @@ section {
     position: static;
     height: unset;
     width: unset;
-    /* background-color: #dbe1e8; */
+    background-color: #dbe1e8;
     /* flex-direction: row; */
   }
 
