@@ -134,4 +134,8 @@ section {
   .large {
     display: block;
   }
+
+  .small {
+    display: block;
+  }
 }
