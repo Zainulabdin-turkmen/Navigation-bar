@@ -130,4 +130,8 @@ section {
   .close-svg {
     display: none;
   }
+
+  .large {
+    display: block;
+  }
 }
